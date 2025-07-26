@@ -1,2 +1,2 @@
 # MathPyLab
-MathPyLab: Python-Powered Mathematical Explorations &amp; Scientific Visualizations. Where algorithms meet artistry and equations become experiences
+✨ Bringing The Abstract Beauty of Mathematics to Life As a Mesmerizing Animation with Python 🐍
